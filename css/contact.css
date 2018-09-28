@@ -1,0 +1,157 @@
+.contact-form input[type="text"],input[type="password"]{
+	width:100%;
+	padding: 6px;
+	background-color: transparent;
+	border:1px solid #ccc;
+	color:gray;
+	transition:.2s;
+}
+.contact-form input[type="text"]:focus{
+	border-color: #005C8B;
+}
+.form{
+	padding: 20px 0;
+}
+.tow-text{
+	margin: 10px 0;
+}
+.in-right{
+	padding-right: 5px;
+}
+.in-left{
+	padding-left: 5px;
+}
+.contact-form textarea{
+	width:100%;
+	padding: 6px;
+	background-color: transparent;
+	border:1px solid #ccc;
+	color:gray;
+	min-height: 200px;
+	transition:.2s;
+}
+.contact-form textarea:focus{
+	border-color: #005C8B;
+}
+.btn-sb{
+	border:1px solid #ccc;
+	color:gray;
+	background-color: transparent;
+	font-style: bold;
+	transition:.2s;
+	padding: 5px 15px;
+}
+.btn-sb:hover{
+	border:1px solid #005C8B;
+	color:#fff;
+	background-color:#005C8B;
+}
+.complaint{
+	width:65%;
+	margin: auto;
+}
+.form-heading{
+	text-align: center;
+	margin: 20px 0 30px 0;
+}
+.in-bottom{
+	margin-bottom: 10px;
+}
+.product-holder{
+	border:1px solid #ccc;
+	margin: 15px 0;
+}
+.holder-heading{
+	border-bottom:1px solid #ccc;
+	color:gray;
+	padding: 5px;
+	background-color: #ccc;
+}
+.text-center{
+	text-align: center;
+}
+.added-products{
+	padding: 10px 5px;
+	border-bottom:1px solid #ccc;
+	color:gray;
+	vertical-align: middle;
+}
+.counter{
+	list-style: none;
+	padding: 0;
+}
+.counter input{
+	width:50px;
+	border:1px solid #ccc;
+}
+.counter li{
+	display: inline;
+}
+li.count-action{
+	border:1px solid #ccc;
+	padding: 3px;
+	text-align: center;
+	transition:.2s ease-in;
+}
+li.minus{
+	padding-right:0; 
+}
+li.plus{
+	margin-left: -4px;
+}
+.quantity{
+	margin: 0 5px;
+}
+.counter li > a{
+	color:gray;
+	display: inline-block;
+	transition:.2s ease-in;
+}
+.counter li > a:hover{
+	color:#fff;
+}
+li.count-action:hover{
+	border:1px solid #005C8B;
+	background-color: #005C8B;
+}
+.total{
+	color:#005C8B;
+	font-size: 18px;
+}
+.cart-total{
+	padding: 1% 5%;
+}
+.total-all{
+	font-size: 20px;
+	color:gray;
+	text-align: right;
+}
+.total-amount{
+	font-size: 20px;
+	color:#005C8B;
+	text-align: center;
+}
+.categories{
+	list-style: none;
+	padding: 0;
+	
+	margin: 15px 0;
+}
+.categories li h5{
+	color:#333;
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.categories li a{
+	display: block;
+	font-weight: bold;
+	color:gray;
+	font-size: 17px;
+	text-decoration: none;
+	transition:.2s ease-in;
+}
+.categories li a:hover{
+	color:#005C8B;
+}

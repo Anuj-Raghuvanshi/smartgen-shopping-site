@@ -1,0 +1,85 @@
+.shadow{
+	box-shadow: inset 0px 2px 4px 1px #eaeaea;
+	background-color:#f7f7f7;
+}
+.bredcrumbs{
+	padding: 5px 0 0 0;
+	color:gray;
+}
+.bredcrumbs a{
+	color: gray;
+	text-decoration: none;
+}
+.bredcrumbs a:hover{
+	text-decoration: underline;
+}
+.bredcrumbs h3{
+	color:#333;
+	font-family: OpenSans-Regular;
+	margin: 30px 0;
+}
+.border-out{
+	border-top: 1px solid #e3e3e3;
+	border-bottom: 1px solid #fefefe;
+}
+.border-in{
+	border-top: 1px solid #fefefe;
+	border-bottom: 1px solid #e3e3e3;
+}
+.crurrent-page{
+	padding: 10px 0;
+}
+.pro img{
+	width: 100%;
+}
+.about-contant{
+	padding:20px 0;
+}
+.members{
+	width:31%;
+	margin: 0 1%;
+	float:left;
+}
+.team-member-img img{
+	margin: auto;
+}
+
+.team-member-detail{
+	text-align: center;
+	font-size: 11px;
+	margin-top: 20px;
+	color: #000;
+}
+.team-member-name{
+	font-size: 15px;
+}
+.team-member-name a{
+	color:#000;
+	text-decoration: none;
+	transition:.2s ease-in;
+}
+.team-member-name a:hover{
+	color:#005C8B;
+}
+.member-info{
+	margin: auto;
+	text-align: center;
+	width: 81%;
+}
+.meet-our-team{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.meet-our-team h3{
+	color:#005C8B;
+	margin-bottom: 2px;
+}
+.about{
+	text-align: justify;
+	font-size: 14px;
+	margin-bottom: 25px;
+}
+.bredcrumbs h3{
+	color: #005C8B;
+	font-family: OpenSans-Light;
+}

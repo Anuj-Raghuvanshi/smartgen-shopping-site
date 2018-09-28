@@ -1,0 +1,110 @@
+body{
+	background-color: #fff;
+}
+.smart{
+	font-size: 48px;
+	padding: 40px 0;
+}
+.date{
+	background-color: #005C8B;
+	padding: 10px;
+	color:#fff;
+}
+.footer{
+	background-color: #005C8B;
+	padding: 5px;
+	color:#fff;
+	text-align: center;
+}
+.padding-left{
+	padding-left: 0;
+}
+.padding-right{
+	padding-right:0; 
+}
+.list-group{
+	border-radius:0;
+	margin: 0;
+}
+.list-group-item:first-child,
+.list-group-item:last-child{
+	border-radius: 0;
+}
+.panel-default{
+	border-radius: 0;
+	margin: 10px 0;
+}
+.btn-r{
+	border-radius: 0;
+}
+.head{
+	width:70%;
+}
+.heading{
+	color:#333;
+	border-bottom: 1px dashed #333;
+	margin: 5px 0;
+}
+.login-form input[type="text"],input[type="password"]{
+	width:100%;
+	padding: 5px;
+	margin-bottom: 10px;
+	border:1px solid #ccc;
+	color:gray;
+	font-weight: bold;
+}
+.admin-log{
+	width:40%;
+	margin: 12% auto;
+}
+.table > thead > tr > th{
+	text-align: center;
+	background-color: #eee;
+	color: gray;
+}
+.table > tbody > tr > td{
+	text-align: center;
+	color: gray;
+}
+.search{
+	border:1px solid #ccc;
+	padding: 5px;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+.create-form input[type="password"],input[type="text"]{
+	width:70%;
+	padding: 5px;
+	border:1px solid #ccc;
+}
+.create-form input[type="number"],textarea,select{
+	width:70%;
+	padding: 5px;
+	border:1px solid #ccc;
+}
+.create-form input[type="password"]{
+	margin: 0;
+}
+.tabel-padding > tbody > tr > td{
+	padding: 3px;
+}
+.links{
+	text-align: center;
+	margin: 0;
+	font-size: 15px;
+}
+.links a{
+	text-decoration: none;
+	color:#005C8B;
+}
+.links a:hover{
+	text-decoration: underline;
+}
+.img-t{
+	width:80px;
+	height: 120px;
+}
